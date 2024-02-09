@@ -1,3 +1,3 @@
 # DSA
 ->doubly linked
-->singly
+->singly linked list
