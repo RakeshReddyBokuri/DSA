@@ -106,4 +106,4 @@ while True:
     elif c=="8":
         break
     else:
-        print("INVALID INPUT")
+        print("Invalid Input")
